@@ -1,3 +1,12 @@
+# Object Oriented Programming - Course Project
+
+## Batch - 01
+## Group - 04
+### Shraddha Bharambe (07)
+### Raj Gharate (13)
+### Archit Jain (16)
+### Adwait Kelkar (22)
+
 <h1> Date and Time </h1>
 
 <h4> Used library : iostream | cstdlib | ctime | math.h  </h4>
@@ -31,4 +40,4 @@ This code contain two class **myDate** and **myTime** , also functions and it's 
 
 <h3>Usage :</h3>
 
-Simple download <a href="https://github.com/KostaD02/Date-and-Time/blob/main/main.cpp">Main.cpp</a> file and then run it , or download whole folder and run <a href="https://github.com/KostaD02/Date-and-Time/blob/main/main.exe">Main.exe</a> file
+Simple download main.cpp</a> and run it.
